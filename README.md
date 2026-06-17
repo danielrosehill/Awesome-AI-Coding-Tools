@@ -287,6 +287,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 - [Bolt](https://bolt.new/)
 - [Cline](https://github.com/cline/cline) [![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)](https://github.com/cline/cline)
 - [Lightning AI](https://lightning.ai/)
+- [Roblox GUI Maker](https://robloxguimaker.dev/)
 
 ## Web UIs
 
