@@ -206,6 +206,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 ## Resources
 
+- [AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/)
 - [Building An Agentic System](https://github.com/gerred/building-an-agentic-system) [![GitHub Repo stars](https://img.shields.io/github/stars/gerred/building-an-agentic-system?style=social)](https://github.com/gerred/building-an-agentic-system)
 
 ## Rules Definition
