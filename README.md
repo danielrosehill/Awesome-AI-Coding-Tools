@@ -244,11 +244,12 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 ## Tooling (For Coding Agents): Memory
 
-*Tooling to assist with deploying a memory store for 
+*Tooling to assist with deploying or maintaining memory stores for coding agents.*
 
 - [Cipher](https://github.com/campfirein/cipher) [![GitHub Repo stars](https://img.shields.io/github/stars/campfirein/cipher?style=social)](https://github.com/campfirein/cipher)
 - [Cognee](https://github.com/topoteretes/cognee) [![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)](https://github.com/topoteretes/cognee)
 - [Memory-Plus](https://github.com/Yuchen20/Memory-Plus) [![GitHub Repo stars](https://img.shields.io/github/stars/Yuchen20/Memory-Plus?style=social)](https://github.com/Yuchen20/Memory-Plus)
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) [![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social)](https://github.com/TerminallyLazy/Tree-Ring-Memory)
 
 ## Toolkits
 
