@@ -89,6 +89,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 - [Plandex](https://github.com/plandex-ai/plandex) [![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)](https://github.com/plandex-ai/plandex)
 - [Shadow](https://github.com/ishaan1013/shadow) [![GitHub Repo stars](https://img.shields.io/github/stars/ishaan1013/shadow?style=social)](https://github.com/ishaan1013/shadow)
 - [SWE Agent](https://github.com/langtalks/swe-agent) [![GitHub Repo stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social)](https://github.com/langtalks/swe-agent)
+- [Tura](https://github.com/Tura-AI/tura) [![GitHub Repo stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social)](https://github.com/Tura-AI/tura)
 - [Warp](https://github.com/warpdotdev/Warp) [![GitHub Repo stars](https://img.shields.io/github/stars/warpdotdev/Warp?style=social)](https://github.com/warpdotdev/Warp)
 
 ## Code Completion
