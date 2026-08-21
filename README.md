@@ -292,3 +292,4 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 ## Web UIs
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) [![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)](https://github.com/All-Hands-AI/OpenHands)
+- [Sillage](https://github.com/MarlBurroW/sillage) [![GitHub Repo stars](https://img.shields.io/github/stars/MarlBurroW/sillage?style=social)](https://github.com/MarlBurroW/sillage)
