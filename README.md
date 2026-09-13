@@ -113,6 +113,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 *Tools that aim to tackle the inherent challenge LLMs face with trying to work on codebases which leverage SDKs and components that were released, or updated, after the conclusion of their training data. This includes specialist RAG tools and doc libaries.*
 
 - [Context 7](https://github.com/upstash/context7) [![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7?style=social)](https://github.com/upstash/context7)
+- [ContextStream](https://contextstream.io) — Shared project context for Cursor, Claude Code, Codex, Grok ([MCP](https://mcp.contextstream.io/mcp) · [OSS](https://github.com/contextstream/mcp-server)). Intelligence isn’t the bottleneck. Context is.
 
 ## Debugging
 
