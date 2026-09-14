@@ -18,6 +18,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 *It's becoming increasingly common for developers to work with multiple AI code-gen (and review) CLIs. CLIs now exist for the express purpose of stack consolidation - bundling or wrapping access to CLIs for the purpose of convenience.*
 
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) [![GitHub Repo stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=social)](https://github.com/smtg-ai/claude-squad)
+- [Orkas](https://github.com/Orkas-AI/Orkas) [![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates local coding agents.
 - [Tembo](https://github.com/tembo/tembo) [![GitHub Repo stars](https://img.shields.io/github/stars/tembo/tembo?style=social)](https://github.com/tembo/tembo)
 
 ## AI IDEs
