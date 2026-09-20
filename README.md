@@ -193,6 +193,9 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 - [Agent Watch](https://github.com/cyberark/agentwatch) [![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/agentwatch?style=social)](https://github.com/cyberark/agentwatch)
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) [![GitHub Repo stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=social)](https://github.com/disler/claude-code-hooks-multi-agent-observability)
 
+- [NextReset](https://nextreset.ai/) - Source-linked Codex reset history and official AI service incident updates; independent and free.
+
+
 ## Orchestration
 
 - [100x-orchestrator](https://github.com/aj47/100x-orchestrator) [![GitHub Repo stars](https://img.shields.io/github/stars/aj47/100x-orchestrator?style=social)](https://github.com/aj47/100x-orchestrator)
