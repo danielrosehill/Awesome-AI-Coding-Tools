@@ -100,6 +100,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 - [AgentCheck](https://github.com/devlyai/AgentCheck) [![GitHub Repo stars](https://img.shields.io/github/stars/devlyai/AgentCheck?style=social)](https://github.com/devlyai/AgentCheck)
 - [CodeReviewAgent](https://github.com/gitbito/CodeReviewAgent) [![GitHub Repo stars](https://img.shields.io/github/stars/gitbito/CodeReviewAgent?style=social)](https://github.com/gitbito/CodeReviewAgent)
+- [DeployReview](https://poe.com/DeployReview) — free Poe bot: AI code review on pasted diffs; flags bugs, security issues, and risky patterns before merge
 - [Qodo](https://www.qodo.ai/)
 - [repo audit](https://github.com/PurCL/RepoAudit) [![GitHub Repo stars](https://img.shields.io/github/stars/PurCL/RepoAudit?style=social)](https://github.com/PurCL/RepoAudit)
 - [Sourcery](https://github.com/sourcery-ai/sourcery) [![GitHub Repo stars](https://img.shields.io/github/stars/sourcery-ai/sourcery?style=social)](https://github.com/sourcery-ai/sourcery)
@@ -117,11 +118,13 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 ## Debugging
 
 - [ChatDBG](https://github.com/plasma-umass/ChatDBG) [![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/ChatDBG?style=social)](https://github.com/plasma-umass/ChatDBG)
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) — free Poe bot: explains diffs in plain language; summarizes what changed and why
 - [Zentara Code](https://github.com/Zentar-Ai/Zentara-Code) [![GitHub Repo stars](https://img.shields.io/github/stars/Zentar-Ai/Zentara-Code?style=social)](https://github.com/Zentar-Ai/Zentara-Code)
 
 ## Dev Tools
 
 - [Agent API](https://github.com/coder/agentapi) [![GitHub Repo stars](https://img.shields.io/github/stars/coder/agentapi?style=social)](https://github.com/coder/agentapi)
+- [DeployCheck](https://x402-extract-service.onrender.com) — pre-deploy audit API for coding agents: link checking, llms.txt auditing, HTTPS migration checks ($0.02 per paid call, free demo tier)
 
 ## Editing
 
@@ -134,6 +137,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 ## Evals
 
 - [agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) [![GitHub Repo stars](https://img.shields.io/github/stars/disler/agentic-coding-tool-eval?style=social)](https://github.com/disler/agentic-coding-tool-eval)
+- [LLMAuditor](https://poe.com/LLMAuditor) — free Poe bot: audits websites for LLM-readiness (llms.txt, link checking, HTTPS migration)
 
 ## For Other Tools
 
