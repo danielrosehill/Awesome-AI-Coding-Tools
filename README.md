@@ -191,6 +191,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 ## Observability
 
 - [Agent Watch](https://github.com/cyberark/agentwatch) [![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/agentwatch?style=social)](https://github.com/cyberark/agentwatch)
+- [agenttrace](https://github.com/luoyuctl/agenttrace) [![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social)](https://github.com/luoyuctl/agenttrace)
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) [![GitHub Repo stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=social)](https://github.com/disler/claude-code-hooks-multi-agent-observability)
 
 ## Orchestration
