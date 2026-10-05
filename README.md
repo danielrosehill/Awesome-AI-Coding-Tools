@@ -196,6 +196,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 ## Orchestration
 
 - [100x-orchestrator](https://github.com/aj47/100x-orchestrator) [![GitHub Repo stars](https://img.shields.io/github/stars/aj47/100x-orchestrator?style=social)](https://github.com/aj47/100x-orchestrator)
+- [Orbi](https://github.com/orbi-build/orbi) [![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)](https://github.com/orbi-build/orbi)
 
 ## Prompts
 
