@@ -59,6 +59,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 - [Super Claude Code](https://github.com/SuperClaude-Org/SuperClaude_Framework) [![GitHub Repo stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=social)](https://github.com/SuperClaude-Org/SuperClaude_Framework)
 - [Zero Config Claude Flow](https://github.com/UfoMiao/zcf) [![GitHub Repo stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=social)](https://github.com/UfoMiao/zcf)
 - [Sniffly](https://github.com/chiphuyen/sniffly) [![GitHub Repo stars](https://img.shields.io/github/stars/chiphuyen/sniffly?style=social)](https://github.com/chiphuyen/sniffly)
+- [CoderPlan](https://coderplan.ai) [![GitHub Repo stars](https://img.shields.io/github/stars/coderplan-ai?style=social)](https://github.com/coderplan-ai) - LLM API gateway providing OpenAI-compatible endpoint for Claude Code and other AI coding agents with pay-per-use pricing.
 
 ## Claude Subagents
 
