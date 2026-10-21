@@ -40,6 +40,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 *Some awesome lists worth checking out and keeping an eye on for digging into the emerging tool landscape.*
 
+- [Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents) [![GitHub Repo stars](https://img.shields.io/github/stars/ianwieds/awesome-ai-agents?style=social)](https://github.com/ianwieds/awesome-ai-agents)
 - [Awesome AI Coding](https://github.com/wsxiaoys/awesome-ai-coding) [![GitHub Repo stars](https://img.shields.io/github/stars/wsxiaoys/awesome-ai-coding?style=social)](https://github.com/wsxiaoys/awesome-ai-coding)
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) [![GitHub Repo stars](https://img.shields.io/github/stars/ai-for-developers/awesome-ai-coding-tools?style=social)](https://github.com/ai-for-developers/awesome-ai-coding-tools)
 - [Awesome Claude Agents](https://github.com/vijaythecoder/awesome-claude-agents) [![GitHub Repo stars](https://img.shields.io/github/stars/vijaythecoder/awesome-claude-agents?style=social)](https://github.com/vijaythecoder/awesome-claude-agents)
