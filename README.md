@@ -1,5 +1,7 @@
 # Awesome AI Coding Tools
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 Generated: September 1, 2025
 
 A point in time snapshot of AI coding tools and agents for those starting, or continuing, an exploration of this software category.
