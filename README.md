@@ -48,6 +48,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) [![GitHub Repo stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=social)](https://github.com/hesreallyhim/awesome-claude-code)
 - [Awesome Code AI](https://github.com/sourcegraph/awesome-code-ai) [![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/awesome-code-ai?style=social)](https://github.com/sourcegraph/awesome-code-ai)
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding) [![GitHub Repo stars](https://img.shields.io/github/stars/filipecalegario/awesome-vibe-coding?style=social)](https://github.com/filipecalegario/awesome-vibe-coding)
+- [Taskade Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) [![GitHub Repo stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) — Taskade-maintained list of vibe-coding tools and resources.
 
 ## Claude Code Accessories
 
