@@ -21,6 +21,7 @@ Note: the long tail of CLIs (especially) is a vast one. This is a very partial s
 
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) [![GitHub Repo stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=social)](https://github.com/smtg-ai/claude-squad)
 - [Tembo](https://github.com/tembo/tembo) [![GitHub Repo stars](https://img.shields.io/github/stars/tembo/tembo?style=social)](https://github.com/tembo/tembo)
+- [Valo](https://getvalo.dev)
 
 ## AI IDEs
 
